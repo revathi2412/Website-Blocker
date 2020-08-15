@@ -1,4 +1,4 @@
-from time import  
+from time import*  
 from datetime import datetime as t  
 
 host_path = r"C:\Windows\System32\drivers\etc\hosts"  
